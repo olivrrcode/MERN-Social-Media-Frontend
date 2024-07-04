@@ -18,6 +18,9 @@
     "redux-persist": "^6.0.0",
     "yup": "^0.32.11"
   },
+  "engines": {
+    "node": "18.7.0"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts --max_old_space_size=4096 build",
